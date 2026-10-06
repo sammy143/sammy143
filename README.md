@@ -98,6 +98,7 @@ An OWL 2 ontology (6-level hierarchy, inverse/sub-property axioms, HermiT + Pell
 
 ### 🎤 Events
 
+- **[Microsoft Agent-a-thon 2026](https://www.microsoft.com/en-us/events/local-events/microsoft-agent-a-thon)**: represented Nitec Solutions in the Architect track, the most advanced of three levels, focused on production-grade, multi-agent orchestration on Microsoft Foundry.
 - **[AICON Belfast 2026](https://lnkd.in/p/eGwWxjiR)**: "From Possible to Proven: Agents at Work". Standouts on emergent-schema knowledge graphs over SEC filings with KV-cache acceleration, real-time speech-to-speech voice agents, and AI diffusion across Northern Ireland. My takeaway: speakers on ethics and alignment should define terms like "thinking" and "agentic", and show working knowledge of how these systems actually work.
 - **[BelTech 2026](https://www.linkedin.com/search/results/all/?keywords=%23beltech2026&origin=HASH_TAG_FROM_FEED)**: attended representing Ulster University. Standout: Dave Farley on vibe coding, arguing that natural language is too ambiguous for precise engineering and pushing toward BDD with domain-specific languages, a thread that runs straight into my [spec-forge](https://github.com/sammy143/spec-forge-overview) work.
 - **[Causal XAI Workshop, AICC at Ulster University](https://lnkd.in/p/ebwEW7xw)**: causal inference, counterfactuals and world models, which sent me to Judea Pearl's *The Book of Why*.
