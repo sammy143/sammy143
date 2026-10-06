@@ -1,7 +1,7 @@
 # Hi, I'm Samuel Emmanuel 👋
 
-**AI Engineer at Nitec Solutions**: agentic development, harness engineering and R&D, building enterprise AI agents on Microsoft Agent Framework, Azure AI Foundry and Copilot Studio.
-**MSc Artificial Intelligence (Distinction), Ulster University Belfast, 2026.**
+**AI Engineer at Nitec Solutions**: agentic development, harness engineering and R&D, building enterprise AI agents on Microsoft Agent Framework, Azure AI Foundry and Copilot Studio.<br>
+**MSc Artificial Intelligence (Distinction), Ulster University Belfast, 2026.**<br>
 Researching LLMs and ML systems, and digging into how models actually work. Interested in mechanistic interpretability and AI safety.
 
 📍 Belfast, NI · ✉️ [samuelemmanuel520@gmail.com](mailto:samuelemmanuel520@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/realsammye/)
@@ -81,7 +81,10 @@ An OWL 2 ontology (6-level hierarchy, inverse/sub-property axioms, HermiT + Pell
 
 ### 🧰 Stack
 
-`Python` · `PyTorch` · `TensorFlow` · `Transformers / SBERT` · `Azure MLOps` · `GCP (Vertex AI, Dialogflow)` · `Neo4j` · `FastAPI`
+- **ML & LLMs:** `Python` · `PyTorch` · `TensorFlow` · `Transformers / SBERT` · `scikit-learn` · `XGBoost` · `Polars`
+- **Agents:** `Microsoft Agent Framework` · `Azure AI Foundry` · `Copilot Studio` · `MCP` · `Claude Code`
+- **Cloud & MLOps:** `Azure ML` · `GCP (Vertex AI, Dialogflow)` · `MLFlow`
+- **Apps & data:** `TypeScript` · `React Native` · `FastAPI` · `Neo4j`
 
 ---
 
