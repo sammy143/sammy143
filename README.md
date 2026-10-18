@@ -30,6 +30,14 @@ MSc thesis. Cross-device transfer-learning pipeline propagating professionally l
 
 📓 [5-notebook pipeline](https://github.com/sammy143/Vultures_Project/blob/main/04_Model_Training_andTransfer_Learning.ipynb) · 🖼️ [35 figures](https://github.com/sammy143/Vultures_Project/tree/main/Graphics) · 📄 [Slides](https://github.com/sammy143/Vultures_Project/blob/main/Final-Project-Presentation.pdf)
 
+**[⚖️ Decision Models, Tested Independently: SubQ Snap vs TypeSafe Jev](https://github.com/sammy143/decision-models-eval)**
+An independent, pre-registered check of a vendor's launch claims for decision models (models that return a probability per allowed answer, used for routing and tool choice in agent loops). Four experiments using the benchmark maintainers' own tooling: four Decision Index benchmarks, a long-context fairness test, calibration and option-order sensitivity. SubQ's **26-point** long-context lead reproduces against chunked Jev 1.13 (**+24.0**) but shrinks to **+8.3 [0.3, 16.7]** against Jev 1.14 reading whole documents; reversing When2Call's option order moves Snap's skill by **7.3 points**. Paired bootstrap CIs, exact McNemar tests, every amendment logged, about $12 of API spend.
+`Python` `NumPy` `SciPy` `matplotlib` `Jupyter` `Statistics`
+
+<img src="https://github.com/sammy143/decision-models-eval/raw/main/figures/exp2_snap_lead.png" width="600" alt="Snap's long-context lead over each Jev setup, with 95% CIs" />
+
+📄 [Key findings](https://github.com/sammy143/decision-models-eval#key-findings) · 📓 [4 analysis notebooks](https://github.com/sammy143/decision-models-eval/tree/main/notebooks) · 🧾 [Run log](https://github.com/sammy143/decision-models-eval/blob/main/runs/exp1/RUNLOG.md)
+
 **[📈 Topology-Aware Bayesian Active Learning](https://github.com/sammy143/quantihack)** · QuantiHack 2026 London
 Reconstructs black-box functions (incl. real intraday S&P 500 / Google price curves) by guiding a Gaussian Process with a composite acquisition function grounded in topological persistence, analytic curvature, and epistemic uncertainty. **12th of 42 finalists, from 265+ teams.**
 `Python` `scikit-learn` `Gaussian Processes` `topopy` `Morse-Smale`
